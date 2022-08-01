@@ -1,4 +1,4 @@
-# scrapping_service
+
 
 ### Сайт на Django 4. Сервис по сбору данных
 
